@@ -1,0 +1,32 @@
+aid: owlbot
+name: OwlBot
+description: "Definitions with example sentence and photo if available"
+url: https://owlbot.info/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Dictionaries"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Dictionaries
+  - Public APIs
+apis:
+  - name: OwlBot
+    description: "Definitions with example sentence and photo if available"
+    humanURL: https://owlbot.info/
+    baseURL: https://owlbot.info/
+    tags:
+      - Dictionaries
+    properties:
+      - type: Documentation
+        url: https://owlbot.info/
+common:
+  - type: Website
+    url: https://owlbot.info/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
