@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://owlbot.info/
 common:
+  - type: DomainSecurity
+    url: security/owlbot-domain-security.yml
   - type: Website
     url: https://owlbot.info/
   - type: PublicAPIsListing
