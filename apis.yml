@@ -39,7 +39,6 @@ apis:
   - name: OwlBot
     description: "Definitions with example sentence and photo if available"
     humanURL: https://owlbot.info/
-    baseURL: https://owlbot.info/
     tags:
       - Dictionaries
     properties:
